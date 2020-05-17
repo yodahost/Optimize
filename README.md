@@ -12,4 +12,4 @@ WowserTR // Genel-Sorumlu
 
 
 ## License
-[MIT](https://github.com/yodahost/pluginpaketleri/blob/master/LICENSE)
+[MIT](https://github.com/yodahost/Optimize/blob/master/LICENSE)
